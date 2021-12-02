@@ -1,4 +1,4 @@
-![Disputandum banner](img/banner.png "Banner for readme")
+![Disputandum banner](img/socialMediaBanner.png "Banner for readme")
 # Disputandum
 
 Disputandum is a full stack application, inspired by Reddit, that I wrote to learn more about Node.js, React, and NoSQL databases. The name disputandum comes from the Latin and means debate).
